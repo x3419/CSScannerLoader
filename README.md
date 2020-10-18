@@ -8,9 +8,7 @@ Compatible with .NET 4.6
 Currently the following files will be written to C:\Users\<username>\AppData\Local\Temp\Costura\<random>\<random>\ upon execution:
 
 getinjectedthreads.dll
-
 commandline.dll
-
 cobaltstrikeconfigparser.dll
 
 
