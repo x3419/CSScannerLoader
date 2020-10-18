@@ -2,7 +2,7 @@ This is a powershell wrapper for  Apr4h's CobaltStrikeScan (https://github.com/A
 
 The purpose is to identify the injected process(es) and parse beacon's config in memory. 
 
-The program output will be saved in C:\CS\computername_CobaltStrikeScanner.txt
+The program output will be saved in C:\CS\computername_CobaltStrikeMemoryScan.txt
 
 Compatible with .NET 4.6
 
