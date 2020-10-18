@@ -5,7 +5,7 @@ The purpose is to identify the injected process(es) and parse beacon's config in
 Compatible with .NET 4.6
 
 
-Currently the following files will be written to C:\Users\<username>\AppData\Local\Temp\Costura\\<random>\\<random>\ upon execution:
+Currently the following files will be written to C:\Users\\<username>\AppData\Local\Temp\Costura\\<random>\\<random>\ upon execution:
 
 getinjectedthreads.dll
 
